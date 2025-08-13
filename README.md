@@ -38,3 +38,14 @@ Easy Reordering: “I want to view my past orders and reorder quickly.”
 - **Responsiveness:** Mobile-first design ensuring compatibility across devices  
 - **Branding:** Visuals and themes emphasizing food ordering speed, simplicity, and quality user experience
 
+- ## 📊 Success Metrics
+
+- **Seamless Ordering Flow** – Users can browse restaurants, add items to the cart, place orders, make secure payments, and receive confirmation emails without errors.  
+- **Fast Performance** – Average page load time under 3 seconds for optimal user experience.  
+- **Accurate Order Data** – Real-time synchronization of order history, status tracking, and payment records.  
+- **High User Engagement** – Easy-to-use search, filtering, and menu navigation encourage repeat usage.  
+- **Consistent UI/UX** – Fully responsive design with a clean layout powered by TailwindCSS + DaisyUI for a polished look across devices.  
+- **Reliable Notifications** – Instant order confirmations and status updates sent via email to keep users informed.  
+- **Secure Transactions** – Payments processed through Razorpay with robust data protection and authentication mechanisms.  
+
+
