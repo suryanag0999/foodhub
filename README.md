@@ -24,7 +24,7 @@ FoodHub provides an end-to-end food ordering experience with features like resta
 Quick Ordering: “I want to place orders from my favorite restaurants with minimal steps.”
 Easy Reordering: “I want to view my past orders and reorder quickly.”
 
-## 🛠 Technical & Design Requirements
+##  Technical & Design Requirements
 
 - **Frontend:** ReactJS with TailwindCSS + DaisyUI for responsive and consistent UI  
 - **Backend:** Node.js with Express framework for scalable APIs  
@@ -38,7 +38,7 @@ Easy Reordering: “I want to view my past orders and reorder quickly.”
 - **Responsiveness:** Mobile-first design ensuring compatibility across devices  
 - **Branding:** Visuals and themes emphasizing food ordering speed, simplicity, and quality user experience
 
-- ## 📊 Success Metrics
+- ##  Success Metrics
 
 - **Seamless Ordering Flow** – Users can browse restaurants, add items to the cart, place orders, make secure payments, and receive confirmation emails without errors.  
 - **Fast Performance** – Average page load time under 3 seconds for optimal user experience.  
