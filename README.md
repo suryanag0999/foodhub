@@ -22,5 +22,19 @@ FoodHub provides an end-to-end food ordering experience with features like resta
 
 ## User Stories
 Quick Ordering: “I want to place orders from my favorite restaurants with minimal steps.”
-
 Easy Reordering: “I want to view my past orders and reorder quickly.”
+
+## 🛠 Technical & Design Requirements
+
+- **Frontend:** ReactJS with TailwindCSS + DaisyUI for responsive and consistent UI  
+- **Backend:** Node.js with Express framework for scalable APIs  
+- **Database:** MongoDB with Mongoose ODM for structured data handling  
+- **Authentication:** JWT-based session management for secure user access  
+- **Payments:** Razorpay API integration for seamless and secure transactions  
+- **Email Service:** NodeMailer or EmailJS for sending order confirmations and updates  
+- **APIs:** RESTful architecture for efficient frontend-backend communication  
+- **UI/UX:** Functional, clean design with minimal navigation layers  
+- **Layouts:** Card/grid-based restaurant and menu displays for easy browsing  
+- **Responsiveness:** Mobile-first design ensuring compatibility across devices  
+- **Branding:** Visuals and themes emphasizing food ordering speed, simplicity, and quality user experience
+
