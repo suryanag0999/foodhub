@@ -19,3 +19,8 @@ FoodHub provides an end-to-end food ordering experience with features like resta
 - **Admin Dashboard** – Manage menus, orders, and customers  
 - **Loyalty & Rewards** – Discounts and offers for returning users  
 - **Dynamic Menu Editor** – Full CRUD operations for restaurant menus
+
+##User Stories
+Quick Ordering: “I want to place orders from my favorite restaurants with minimal steps.”
+
+Easy Reordering: “I want to view my past orders and reorder quickly.”
