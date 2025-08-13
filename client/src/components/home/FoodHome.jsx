@@ -384,9 +384,16 @@ const FoodHome = () => {
     .sort((a, b) => b.rating - a.rating)
     .slice(0, 8);
 
-  const themeClasses = isDarkMode
-    ? "bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white"
-    : "bg-gradient-to-br from-orange-50 via-white to-yellow-50 text-gray-900";
+  // const themeClasses = isDarkMode
+  //   ? "bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white"
+  //   : "bg-gradient-to-br from-orange-50 via-white to-yellow-50 text-gray-900";
+  // const themeClasses = "bg-white text-gray-900";
+const themeClasses = "bg-gradient-to-r from-white via-orange-100 to-orange-200 text-gray-800";
+
+
+
+
+
 
   const cardClasses = isDarkMode
     ? "bg-gray-800/60 border border-gray-700/50 backdrop-blur-md"

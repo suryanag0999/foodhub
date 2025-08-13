@@ -32,9 +32,14 @@ const Nav = () => {
     setIsMobileMenuOpen(false);
   };
 
-  const themeClasses = isDarkMode
-    ? "bg-gray-900/95 text-white border-gray-700/50"
-    : "bg-white-text-gray-900 border-gray-200/50";
+  // const themeClasses = isDarkMode
+  //   ? "bg-gray-900/95 text-white border-gray-700/50"
+  //   : "bg-white-text-gray-900 border-gray-200/50";
+  // const themeClasses = "bg-red-600 text-white border-red-700";
+const themeClasses = "bg-gradient-to-r from-orange-500 via-red-500 to-red-600 text-white border-none";
+
+
+
 
   const buttonClasses = isDarkMode
     ? "bg-gray-800/80 hover:bg-gray-700/80 border-gray-600/50 text-gray-200 hover:text-white"
@@ -72,7 +77,7 @@ const Nav = () => {
                 </h1>
                 <p
                   className={`text-xs ${
-                    isDarkMode ? "text-gray-400" : "text-gray-600"
+                    isDarkMode ? "text-white-400" : "text-white-600"
                   }`}
                 >
                   From kitchen to you — fast & fresh
