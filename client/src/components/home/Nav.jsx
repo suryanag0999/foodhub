@@ -34,7 +34,7 @@ const Nav = () => {
 
   const themeClasses = isDarkMode
     ? "bg-gray-900/95 text-white border-gray-700/50"
-    : "bg-white/95 text-gray-900 border-gray-200/50";
+    : "bg-red text-gray-900 border-gray-200/50";
 
   const buttonClasses = isDarkMode
     ? "bg-gray-800/80 hover:bg-gray-700/80 border-gray-600/50 text-gray-200 hover:text-white"
